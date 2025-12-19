@@ -210,4 +210,3 @@ Potential improvements:
 ---
 
 Built with ❤️ for professional PDF workflows.
-# PaperFlow
